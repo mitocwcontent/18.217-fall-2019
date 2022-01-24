@@ -7,9 +7,9 @@ title: 'Lecture 5: Forbidding a Subgraph IV: Dependent Random Choice'
 uid: eea7e58e-e224-ec11-a048-70cc32561e7d
 video_files:
   archive_url: https://archive.org/download/MIT18.217F19/MIT18_217F19_lec05_300k.mp4
-  video_captions_file: /courses/18-217-graph-theory-and-additive-combinatorics-fall-2019/fe1ed8be8b3d5febb2d9ab0db0a2aee8_NpMv0Nqmy3c.vtt
+  video_captions_file: /courses/18-217-graph-theory-and-additive-combinatorics-fall-2019/a62d40f65fe4543fa236baa1da622ee0_4626663.vtt
   video_thumbnail_file: https://img.youtube.com/vi/NpMv0Nqmy3c/default.jpg
-  video_transcript_file: /courses/18-217-graph-theory-and-additive-combinatorics-fall-2019/e1c93153640251812a9077b4b48ee237_NpMv0Nqmy3c.pdf
+  video_transcript_file: /courses/18-217-graph-theory-and-additive-combinatorics-fall-2019/054e1b01b24e451bc5b40e33d14a24d5_4626663.pdf
 video_metadata:
   youtube_id: NpMv0Nqmy3c
 ---
